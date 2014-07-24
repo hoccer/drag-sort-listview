@@ -95,4 +95,13 @@ Copyright 2012 Andreas Schildbach
             </plugins>
         </pluginManagement>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>hoccer</id>
+            <name>Archiva Managed Hoccer Repository</name>
+            <url>https://archiva.hoccer.com/repository/hoccer</url>
+        </repository>
+    </distributionManagement>
+
 </project>
