@@ -100,7 +100,7 @@ Copyright 2012 Andreas Schildbach
         <repository>
             <id>hoccer</id>
             <name>Archiva Managed Hoccer Repository</name>
-            <url>https://archiva.hoccer.com/repository/internal</url>
+            <url>https://archiva.hoccer.com/repository/snapshots</url>
         </repository>
     </distributionManagement>
 
